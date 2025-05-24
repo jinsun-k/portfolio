@@ -1,4 +1,4 @@
-# Data Scientist 
+# Consumer Insights Researcher
 
 ### Education
 Master of Science in Business Analytics 
