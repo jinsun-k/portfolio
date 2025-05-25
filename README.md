@@ -9,16 +9,4 @@ Analyzed booking and travel patterns to build a predictive model that classifies
 - Confusion matrix, AUC used for model performance evaluation 
 
 
-# Consumer Insights Researcher
-
-### Education
-Master of Science in Business Analytics 
-
-### Work Experience 
-Consumer Insights Manager @ Talking Rain Beverage Company 
-- XXX
-- XXX
-- XXX
-
-### Projects 
-xxx
+## 
