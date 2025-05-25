@@ -1,7 +1,7 @@
 # Projects in data science, machine learning, and data visualization 
 
 ## Customer Classification Model 
-Analyzed booking and travel patterns to build a predictive model that classifies travelers - business or leisure. The goal was to support personalized marketing and optimize product offerings. Applied logistic regression and ridge regression, achieving 83% accuracy. 
+Analyzed booking behaviors to build a predictive model that classifies travelers as business or leisure. The goal was to support personalized marketing and optimize product offerings. The source of booking and discount code emerged as strong predictors of traveler type than other trip details (e.g., cabin class, group size), enabling real-time communication at the moment of booking. The model achieved 83% accuracy.
 
 *Tools & Techniques* 
 - R, dplyr, tidyr, ggplot2
