@@ -9,5 +9,6 @@ Analyzed booking behaviors to build a predictive model that classifies travelers
 - Confusion matrix, AUC used for model performance evaluation 
 
 ##  Exploring Mental Health Recognition & Access 
-Developed an interactive dashboard using Tableau to explore disparities in meantal health recognition and resource access across regions, generations, and income levels. While Gen Zs are more open to mental health, the data revealed gaps in early recognition of anxiety/depression – even within the same region, highlighting the need for culturally sensitive outreach and support. 
+Developed an interactive dashboard using Tableau to explore disparities in mental health recognition and resource access across regions, generations, and income levels. While Gen Zs are more open to mental health, the data revealed gaps in early recognition of anxiety/depression – even within the same region, highlighting the need for culturally sensitive outreach and support. 
+
 ![Mental Health Dashboard](assets/dashboard1.png) 
